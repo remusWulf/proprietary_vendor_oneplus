@@ -13,4 +13,4 @@ ro.product.system.brand=OnePlus
 ro.product.system.device=OnePlus6
 ro.product.system.manufacturer=OnePlus
 ro.product.system.name=OnePlus6
-# end common build properties
+
